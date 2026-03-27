@@ -8,6 +8,10 @@
 - **Gender**: male  
 - **MBTI**: INTP 
 
+<p align="center">
+  <i>“feel free to talk to me, i don't bite. quite friendly :) //trust”</i>
+</p>
+
 
 <p align="center">
   <img src="denji.gif.gif" width="100%"/>
