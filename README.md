@@ -10,5 +10,5 @@
 
 
 <p align="center">
-  <img src="divider.gif" width="100%"/>
+  <img src="denji.gif.gif" width="100%"/>
 </p>
