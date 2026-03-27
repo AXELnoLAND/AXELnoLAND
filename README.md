@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="denji.png" width="450"/>
+  <img src="denji.png.webp" width="450"/>
 </p>
